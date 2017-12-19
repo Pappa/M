@@ -1,0 +1,25 @@
+{
+  "name": "@dbb/m",
+  "version": "0.0.1",
+  "description": "Playing with monads in JS",
+  "main": "index.js",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^4.0.1"
+  },
+  "scripts": {
+    "test": "mocha -- ./**/*.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pappa/M.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Pappa/M/issues"
+  },
+  "homepage": "https://github.com/Pappa/M#readme"
+}
